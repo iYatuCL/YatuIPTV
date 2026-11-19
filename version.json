@@ -1,8 +1,8 @@
 {
-    "versionCode":  45,
-    "versionName":  "1.14.4",
-    "url":  "https://github.com/iYatuCL/YatuIPTV/releases/download/v1.14.4/YatuIPTV-1.14.4.apk",
-    "sha256":  "eb7f3355f6303f68b188daffcbe466b1d523c2a334fd42e7e8b12667f8759e74",
-    "notas":  "Boton Info con version, link y QR de descarga.",
+    "versionCode":  46,
+    "versionName":  "1.14.5",
+    "url":  "https://github.com/iYatuCL/YatuIPTV/releases/download/v1.14.5/YatuIPTV-1.14.5.apk",
+    "sha256":  "c676790f91127a2130430e8b529598c72e8750ac4fc48f1bd63c6156842d6d33",
+    "notas":  "Codigo Downloader 7253037 en la pantalla Info y en la lista de apps viejas.",
     "obligatoria":  false
 }
