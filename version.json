@@ -1,8 +1,8 @@
 {
-    "versionCode":  47,
-    "versionName":  "1.14.6",
-    "url":  "https://github.com/iYatuCL/YatuIPTV/releases/download/v1.14.6/YatuIPTV-1.14.6.apk",
-    "sha256":  "d979eb91c97f0828ab940d1f913acccda31500a46442d116f90fd5544d4efc5a",
-    "notas":  "Codigo Downloader corregido: 8155191 (siempre descarga la ultima version).",
-    "obligatoria":  false
+    "versionCode":  48,
+    "versionName":  "1.14.7",
+    "url":  "https://github.com/iYatuCL/YatuIPTV/releases/download/v1.14.7/YatuIPTV-1.14.7.apk",
+    "sha256":  "32c5b9a09b7c590e5f2f5685e51819b6713fdbecaac88bc890f8d460a7cb6730",
+    "notas":  "Vuelve el toggle de video HW/SW. Las TCL ya no fuerzan Software: arrancan en Hardware (rapido).",
+    "obligatoria":  true
 }
