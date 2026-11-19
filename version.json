@@ -1,8 +1,8 @@
 {
-    "versionCode":  43,
-    "versionName":  "1.14.2",
-    "url":  "https://github.com/iYatuCL/YatuIPTV/releases/download/v1.14.2/YatuIPTV-1.14.2.apk",
-    "sha256":  "4be6774bdcc85325ae60ed673414f2a7b854bc2b9ce1b9ea9d6f2d4549c90eb8",
-    "notas":  "Actualizacion obligatoria: exige version minima en la lista de canales.",
+    "versionCode":  44,
+    "versionName":  "1.14.3",
+    "url":  "https://github.com/iYatuCL/YatuIPTV/releases/download/v1.14.3/YatuIPTV-1.14.3.apk",
+    "sha256":  "9b33505a1bc428099438ff783e388d65ef20f7a430c68ebad18f45f8049735c6",
+    "notas":  "Lista principal ahora en android_tv_v2.m3u. La lista vieja queda para apps anteriores.",
     "obligatoria":  true
 }
