@@ -1,8 +1,8 @@
 {
-    "versionCode":  49,
-    "versionName":  "1.14.8",
-    "url":  "https://github.com/iYatuCL/YatuIPTV/releases/download/v1.14.8/YatuIPTV-1.14.8.apk",
-    "sha256":  "95f0eaa34e72271c97ddda02238f4c492878f0c0de029eac51a637deb3e07e8e",
-    "notas":  "Respaldo automatico de lista (Gist, repo y CDN) + proteccion anti-placeholder + WhatsApp en Info.",
-    "obligatoria":  true
+    "versionCode":  50,
+    "versionName":  "1.14.9",
+    "url":  "https://github.com/iYatuCL/YatuIPTV/releases/download/v1.14.9/YatuIPTV-1.14.9.apk",
+    "sha256":  "57f9b3262132ea733da9b3c5a40684904b92c343d83f7aed9607edeed6a479e0",
+    "notas":  "Misma base que 1.14.8 (fallback de lista y proteccion anti-placeholder).",
+    "obligatoria":  false
 }
